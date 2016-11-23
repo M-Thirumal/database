@@ -2,6 +2,8 @@
 
 All Locales code and description/titles are in locales.sql
 
+All Countries iso & iso-3 are in countries.sql
+
 
 
 # Run from eclipse
