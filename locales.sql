@@ -141,6 +141,11 @@ INSERT INTO code.locale_cd (description,code) VALUES ('Spanish (Venezuela)','es_
 INSERT INTO code.locale_cd (description,code) VALUES ('Spanish','es');
 INSERT INTO code.locale_cd (description,code) VALUES ('Swedish (Sweden)','sv_SE');
 INSERT INTO code.locale_cd (description,code) VALUES ('Swedish','sv');
+INSERT INTO code.locale_cd (description,code) VALUES ('Tamil','ta');
+INSERT INTO code.locale_cd (description,code) VALUES ('Tamil (India)','ta_IN');
+INSERT INTO code.locale_cd (description,code) VALUES ('Tamil (Sri Lanka)','ta_LK');
+INSERT INTO code.locale_cd (description,code) VALUES ('Tamil (Malaysia)','ta_MY');
+INSERT INTO code.locale_cd (description,code) VALUES ('Tamil (Singapore)','ta_SG');
 INSERT INTO code.locale_cd (description,code) VALUES ('Thai (Thailand)','th_TH');
 INSERT INTO code.locale_cd (description,code) VALUES ('Thai (Thailand,TH)','th_TH_TH');
 INSERT INTO code.locale_cd (description,code) VALUES ('Thai','th');
