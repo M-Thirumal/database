@@ -34,4 +34,5 @@ Insert into code.province_cd (province_cd, country_cd, code, start_date) values
 (33, 99, 'DD', '2016-11-24'),
 (34, 99, 'DL', '2016-11-24'),
 (35, 99, 'LD', '2016-11-24'),
-(36, 99, 'PY', '2016-11-24');
+(36, 99, 'PY', '2016-11-24'),
+(9999, 99, 'other', '2016-11-24');
