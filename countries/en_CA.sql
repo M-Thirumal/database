@@ -1,253 +1,236 @@
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AF', E'Afghanistan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AX', E'Åland Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AL', E'Albania');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'DZ', E'Algeria');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AS', E'American Samoa');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AD', E'Andorra');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AO', E'Angola');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AI', E'Anguilla');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AQ', E'Antarctica');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AG', E'Antigua & Barbuda');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AR', E'Argentina');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AM', E'Armenia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AW', E'Aruba');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AC', E'Ascension Island');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AU', E'Australia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AT', E'Austria');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AZ', E'Azerbaijan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BS', E'Bahamas');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BH', E'Bahrain');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BD', E'Bangladesh');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BB', E'Barbados');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BY', E'Belarus');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BE', E'Belgium');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BZ', E'Belize');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BJ', E'Benin');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BM', E'Bermuda');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BT', E'Bhutan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BO', E'Bolivia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BA', E'Bosnia & Herzegovina');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BW', E'Botswana');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BR', E'Brazil');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'IO', E'British Indian Ocean Territory');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'VG', E'British Virgin Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BN', E'Brunei');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BG', E'Bulgaria');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BF', E'Burkina Faso');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BI', E'Burundi');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'KH', E'Cambodia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CM', E'Cameroon');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CA', E'Canada');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'IC', E'Canary Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CV', E'Cape Verde');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BQ', E'Caribbean Netherlands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'KY', E'Cayman Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CF', E'Central African Republic');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'EA', E'Ceuta & Melilla');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TD', E'Chad');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CL', E'Chile');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CN', E'China');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CX', E'Christmas Island');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CC', E'Cocos (Keeling) Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CO', E'Colombia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'KM', E'Comoros');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CG', E'Congo - Brazzaville');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CD', E'Congo - Kinshasa');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CK', E'Cook Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CR', E'Costa Rica');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CI', E'Côte d’Ivoire');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'HR', E'Croatia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CU', E'Cuba');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CW', E'Curaçao');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CY', E'Cyprus');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CZ', E'Czech Republic');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'DK', E'Denmark');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'DG', E'Diego Garcia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'DJ', E'Djibouti');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'DM', E'Dominica');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'DO', E'Dominican Republic');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'EC', E'Ecuador');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'EG', E'Egypt');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SV', E'El Salvador');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GQ', E'Equatorial Guinea');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'ER', E'Eritrea');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'EE', E'Estonia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'ET', E'Ethiopia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'FK', E'Falkland Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'FO', E'Faroe Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'FJ', E'Fiji');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'FI', E'Finland');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'FR', E'France');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GF', E'French Guiana');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PF', E'French Polynesia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TF', E'French Southern Territories');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GA', E'Gabon');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GM', E'Gambia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GE', E'Georgia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'DE', E'Germany');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GH', E'Ghana');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GI', E'Gibraltar');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GR', E'Greece');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GL', E'Greenland');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GD', E'Grenada');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GP', E'Guadeloupe');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GU', E'Guam');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GT', E'Guatemala');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GG', E'Guernsey');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GN', E'Guinea');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GW', E'Guinea-Bissau');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GY', E'Guyana');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'HT', E'Haiti');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'HN', E'Honduras');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'HK', E'Hong Kong SAR China');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'HU', E'Hungary');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'IS', E'Iceland');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'IN', E'India');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'ID', E'Indonesia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'IR', E'Iran');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'IQ', E'Iraq');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'IE', E'Ireland');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'IM', E'Isle of Man');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'IL', E'Israel');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'IT', E'Italy');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'JM', E'Jamaica');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'JP', E'Japan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'JE', E'Jersey');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'JO', E'Jordan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'KZ', E'Kazakhstan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'KE', E'Kenya');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'KI', E'Kiribati');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'XK', E'Kosovo');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'KW', E'Kuwait');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'KG', E'Kyrgyzstan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'LA', E'Laos');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'LV', E'Latvia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'LB', E'Lebanon');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'LS', E'Lesotho');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'LR', E'Liberia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'LY', E'Libya');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'LI', E'Liechtenstein');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'LT', E'Lithuania');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'LU', E'Luxembourg');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MO', E'Macau SAR China');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MK', E'Macedonia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MG', E'Madagascar');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MW', E'Malawi');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MY', E'Malaysia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MV', E'Maldives');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'ML', E'Mali');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MT', E'Malta');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MH', E'Marshall Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MQ', E'Martinique');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MR', E'Mauritania');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MU', E'Mauritius');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'YT', E'Mayotte');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MX', E'Mexico');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'FM', E'Micronesia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MD', E'Moldova');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MC', E'Monaco');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MN', E'Mongolia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'ME', E'Montenegro');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MS', E'Montserrat');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MA', E'Morocco');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MZ', E'Mozambique');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MM', E'Myanmar (Burma)');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'NA', E'Namibia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'NR', E'Nauru');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'NP', E'Nepal');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'NL', E'Netherlands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'NC', E'New Caledonia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'NZ', E'New Zealand');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'NI', E'Nicaragua');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'NE', E'Niger');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'NG', E'Nigeria');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'NU', E'Niue');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'NF', E'Norfolk Island');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'KP', E'North Korea');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MP', E'Northern Mariana Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'NO', E'Norway');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'OM', E'Oman');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PK', E'Pakistan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PW', E'Palau');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PS', E'Palestinian Territories');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PA', E'Panama');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PG', E'Papua New Guinea');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PY', E'Paraguay');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PE', E'Peru');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PH', E'Philippines');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PN', E'Pitcairn Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PL', E'Poland');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PT', E'Portugal');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PR', E'Puerto Rico');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'QA', E'Qatar');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'RE', E'Réunion');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'RO', E'Romania');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'RU', E'Russia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'RW', E'Rwanda');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'WS', E'Samoa');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SM', E'San Marino');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'ST', E'São Tomé & Príncipe');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SA', E'Saudi Arabia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SN', E'Senegal');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'RS', E'Serbia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SC', E'Seychelles');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SL', E'Sierra Leone');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SG', E'Singapore');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SX', E'Sint Maarten');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SK', E'Slovakia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SI', E'Slovenia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SB', E'Solomon Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SO', E'Somalia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'ZA', E'South Africa');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GS', E'South Georgia & South Sandwich Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'KR', E'South Korea');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SS', E'South Sudan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'ES', E'Spain');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'LK', E'Sri Lanka');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'BL', E'St. Barthélemy');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SH', E'St. Helena');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'KN', E'St. Kitts & Nevis');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'LC', E'St. Lucia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'MF', E'St. Martin');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'PM', E'St. Pierre & Miquelon');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'VC', E'St. Vincent & Grenadines');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SD', E'Sudan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SR', E'Suriname');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SJ', E'Svalbard & Jan Mayen');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SZ', E'Swaziland');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SE', E'Sweden');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'CH', E'Switzerland');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'SY', E'Syria');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TW', E'Taiwan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TJ', E'Tajikistan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TZ', E'Tanzania');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TH', E'Thailand');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TL', E'Timor-Leste');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TG', E'Togo');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TK', E'Tokelau');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TO', E'Tonga');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TT', E'Trinidad & Tobago');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TA', E'Tristan da Cunha');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TN', E'Tunisia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TR', E'Turkey');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TM', E'Turkmenistan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TC', E'Turks & Caicos Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'TV', E'Tuvalu');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'UM', E'U.S. Outlying Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'VI', E'U.S. Virgin Islands');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'UG', E'Uganda');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'UA', E'Ukraine');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'AE', E'United Arab Emirates');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'GB', E'United Kingdom');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'US', E'United States');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'UY', E'Uruguay');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'UZ', E'Uzbekistan');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'VU', E'Vanuatu');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'VA', E'Vatican City');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'VE', E'Venezuela');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'VN', E'Vietnam');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'WF', E'Wallis & Futuna');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'EH', E'Western Sahara');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'YE', E'Yemen');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'ZM', E'Zambia');
-INSERT INTO code.country_locales (locale_cd, country_cd, description) VALUES(E'ZW', E'Zimbabwe');
+ INSERT INTO code.country_locales(locale_cd, country_cd, description) VALUES
+ (42, 1, 'Afghanistan'),
+ (42, 2, 'Albania'),
+ (42, 3, 'Algeria'),
+ (42, 4, 'American Samoa'),
+ (42, 5, 'Andorra'),
+ (42, 6, 'Angola'),
+ (42, 7, 'Anguilla'),
+ (42, 8, 'Antarctica'),
+ (42, 9, 'Antigua & Barbuda'),
+ (42, 10, 'Argentina'),
+ (42, 11, 'Armenia'),
+ (42, 12, 'Aruba'),
+ (42, 13, 'Australia'),
+ (42, 14, 'Austria'),
+ (42, 15, 'Azerbaijan'),
+ (42, 16, 'Bahamas'),
+ (42, 17, 'Bahrain'),
+ (42, 18, 'Bangladesh'),
+ (42, 19, 'Barbados'),
+ (42, 20, 'Belarus'),
+ (42, 21, 'Belgium'),
+ (42, 22, 'Belize'),
+ (42, 23, 'Benin'),
+ (42, 24, 'Bermuda'),
+ (42, 25, 'Bhutan'),
+ (42, 26, 'Bolivia'),
+ (42, 27, 'Bosnia & Herzegovina'),
+ (42, 28, 'Botswana'),
+ (42, 30, 'Brazil'),
+ (42, 31, 'British Indian Ocean Territory'),
+ (42, 233, 'British Virgin Islands'),
+ (42, 32, 'Brunei'),
+ (42, 33, 'Bulgaria'),
+ (42, 34, 'Burkina Faso'),
+ (42, 35, 'Burundi'),
+ (42, 36, 'Cambodia'),
+ (42, 37, 'Cameroon'),
+ (42, 38, 'Canada'),
+ (42, 39, 'Cape Verde'),
+ (42, 40, 'Cayman Islands'),
+ (42, 41, 'Central African Republic'),
+ (42, 42, 'Chad'),
+ (42, 43, 'Chile'),
+ (42, 44, 'China'),
+ (42, 45, 'Christmas Island'),
+ (42, 46, 'Cocos (Keeling) Islands'),
+ (42, 47, 'Colombia'),
+ (42, 48, 'Comoros'),
+ (42, 49, 'Congo - Brazzaville'),
+ (42, 50, 'Congo - Kinshasa'),
+ (42, 51, 'Cook Islands'),
+ (42, 52, 'Costa Rica'),
+ (42, 53, 'Côte d’Ivoire'),
+ (42, 54, 'Croatia'),
+ (42, 55, 'Cuba'),
+ (42, 56, 'Cyprus'),
+ (42, 57, 'Czech Republic'),
+ (42, 58, 'Denmark'),
+ (42, 59, 'Djibouti'),
+ (42, 60, 'Dominica'),
+ (42, 61, 'Dominican Republic'),
+ (42, 62, 'Ecuador'),
+ (42, 63, 'Egypt'),
+ (42, 64, 'El Salvador'),
+ (42, 65, 'Equatorial Guinea'),
+ (42, 66, 'Eritrea'),
+ (42, 67, 'Estonia'),
+ (42, 68, 'Ethiopia'),
+ (42, 69, 'Falkland Islands'),
+ (42, 70, 'Faroe Islands'),
+ (42, 71, 'Fiji'),
+ (42, 72, 'Finland'),
+ (42, 73, 'France'),
+ (42, 74, 'French Guiana'),
+ (42, 75, 'French Polynesia'),
+ (42, 76, 'French Southern Territories'),
+ (42, 77, 'Gabon'),
+ (42, 78, 'Gambia'),
+ (42, 79, 'Georgia'),
+ (42, 80, 'Germany'),
+ (42, 81, 'Ghana'),
+ (42, 82, 'Gibraltar'),
+ (42, 83, 'Greece'),
+ (42, 84, 'Greenland'),
+ (42, 85, 'Grenada'),
+ (42, 86, 'Guadeloupe'),
+ (42, 87, 'Guam'),
+ (42, 88, 'Guatemala'),
+ (42, 89, 'Guinea'),
+ (42, 90, 'Guinea-Bissau'),
+ (42, 91, 'Guyana'),
+ (42, 92, 'Haiti'),
+ (42, 95, 'Honduras'),
+ (42, 96, 'Hong Kong SAR China'),
+ (42, 97, 'Hungary'),
+ (42, 98, 'Iceland'),
+ (42, 99, 'India'),
+ (42, 100, 'Indonesia'),
+ (42, 101, 'Iran'),
+ (42, 102, 'Iraq'),
+ (42, 103, 'Ireland'),
+ (42, 104, 'Israel'),
+ (42, 105, 'Italy'),
+ (42, 106, 'Jamaica'),
+ (42, 107, 'Japan'),
+ (42, 108, 'Jordan'),
+ (42, 109, 'Kazakhstan'),
+ (42, 110, 'Kenya'),
+ (42, 111, 'Kiribati'),
+ (42, 114, 'Kuwait'),
+ (42, 115, 'Kyrgyzstan'),
+ (42, 116, 'Laos'),
+ (42, 117, 'Latvia'),
+ (42, 118, 'Lebanon'),
+ (42, 119, 'Lesotho'),
+ (42, 120, 'Liberia'),
+ (42, 121, 'Libya'),
+ (42, 122, 'Liechtenstein'),
+ (42, 123, 'Lithuania'),
+ (42, 124, 'Luxembourg'),
+ (42, 125, 'Macau SAR China'),
+ (42, 126, 'Macedonia'),
+ (42, 127, 'Madagascar'),
+ (42, 128, 'Malawi'),
+ (42, 129, 'Malaysia'),
+ (42, 130, 'Maldives'),
+ (42, 131, 'Mali'),
+ (42, 132, 'Malta'),
+ (42, 133, 'Marshall Islands'),
+ (42, 134, 'Martinique'),
+ (42, 135, 'Mauritania'),
+ (42, 136, 'Mauritius'),
+ (42, 137, 'Mayotte'),
+ (42, 138, 'Mexico'),
+ (42, 139, 'Micronesia'),
+ (42, 140, 'Moldova'),
+ (42, 141, 'Monaco'),
+ (42, 142, 'Mongolia'),
+ (42, 143, 'Montserrat'),
+ (42, 144, 'Morocco'),
+ (42, 145, 'Mozambique'),
+ (42, 146, 'Myanmar (Burma)'),
+ (42, 147, 'Namibia'),
+ (42, 148, 'Nauru'),
+ (42, 149, 'Nepal'),
+ (42, 150, 'Netherlands'),
+ (42, 152, 'New Caledonia'),
+ (42, 153, 'New Zealand'),
+ (42, 154, 'Nicaragua'),
+ (42, 155, 'Niger'),
+ (42, 156, 'Nigeria'),
+ (42, 157, 'Niue'),
+ (42, 158, 'Norfolk Island'),
+ (42, 112, 'North Korea'),
+ (42, 159, 'Northern Mariana Islands'),
+ (42, 160, 'Norway'),
+ (42, 161, 'Oman'),
+ (42, 162, 'Pakistan'),
+ (42, 163, 'Palau'),
+ (42, 164, 'Palestinian Territories'),
+ (42, 165, 'Panama'),
+ (42, 166, 'Papua New Guinea'),
+ (42, 167, 'Paraguay'),
+ (42, 168, 'Peru'),
+ (42, 169, 'Philippines'),
+ (42, 170, 'Pitcairn Islands'),
+ (42, 171, 'Poland'),
+ (42, 172, 'Portugal'),
+ (42, 173, 'Puerto Rico'),
+ (42, 174, 'Qatar'),
+ (42, 175, 'Réunion'),
+ (42, 176, 'Romania'),
+ (42, 177, 'Russia'),
+ (42, 178, 'Rwanda'),
+ (42, 184, 'Samoa'),
+ (42, 185, 'San Marino'),
+ (42, 186, 'São Tomé & Príncipe'),
+ (42, 187, 'Saudi Arabia'),
+ (42, 188, 'Senegal'),
+ (42, 190, 'Seychelles'),
+ (42, 191, 'Sierra Leone'),
+ (42, 192, 'Singapore'),
+ (42, 193, 'Slovakia'),
+ (42, 194, 'Slovenia'),
+ (42, 195, 'Solomon Islands'),
+ (42, 196, 'Somalia'),
+ (42, 197, 'South Africa'),
+ (42, 198, 'South Georgia & South Sandwich Islands'),
+ (42, 113, 'South Korea'),
+ (42, 199, 'Spain'),
+ (42, 200, 'Sri Lanka'),
+ (42, 179, 'St. Helena'),
+ (42, 180, 'St. Kitts & Nevis'),
+ (42, 181, 'St. Lucia'),
+ (42, 182, 'St. Pierre & Miquelon'),
+ (42, 183, 'St. Vincent & Grenadines'),
+ (42, 201, 'Sudan'),
+ (42, 202, 'Suriname'),
+ (42, 203, 'Svalbard & Jan Mayen'),
+ (42, 204, 'Swaziland'),
+ (42, 205, 'Sweden'),
+ (42, 206, 'Switzerland'),
+ (42, 207, 'Syria'),
+ (42, 208, 'Taiwan'),
+ (42, 209, 'Tajikistan'),
+ (42, 210, 'Tanzania'),
+ (42, 211, 'Thailand'),
+ (42, 212, 'Timor-Leste'),
+ (42, 213, 'Togo'),
+ (42, 214, 'Tokelau'),
+ (42, 215, 'Tonga'),
+ (42, 216, 'Trinidad & Tobago'),
+ (42, 217, 'Tunisia'),
+ (42, 218, 'Turkey'),
+ (42, 219, 'Turkmenistan'),
+ (42, 220, 'Turks & Caicos Islands'),
+ (42, 221, 'Tuvalu'),
+ (42, 227, 'U.S. Outlying Islands'),
+ (42, 234, 'U.S. Virgin Islands'),
+ (42, 222, 'Uganda'),
+ (42, 223, 'Ukraine'),
+ (42, 224, 'United Arab Emirates'),
+ (42, 225, 'United Kingdom'),
+ (42, 226, 'United States'),
+ (42, 228, 'Uruguay'),
+ (42, 229, 'Uzbekistan'),
+ (42, 230, 'Vanuatu'),
+ (42, 94, 'Vatican City'),
+ (42, 231, 'Venezuela'),
+ (42, 232, 'Vietnam'),
+ (42, 235, 'Wallis & Futuna'),
+ (42, 236, 'Western Sahara'),
+ (42, 237, 'Yemen'),
+ (42, 238, 'Zambia'),
+ (42, 239, 'Zimbabwe');
